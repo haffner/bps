@@ -1,8 +1,8 @@
 default:
 
-1:
+001:
 	idl -e "bps_001"
-2:
+002:
 	idl -e "bps_002"
-3:
+003:
 	idl -e "bps_003"
